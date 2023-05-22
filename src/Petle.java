@@ -82,11 +82,6 @@ public class Petle {
         Fizz
         4
         Buzz
-        Fizz
-        7
-        8
-        Fizz
-        Buzz
         ...
         14
         FizzBuzz
@@ -97,6 +92,7 @@ public class Petle {
         for (int i = 0; i <= Character.MAX_VALUE; i++) {
             System.out.println("i: " + i + " -> " + ch++);
         }
+        // w ten sposób da analizować zmienną char
 
     }
 }
