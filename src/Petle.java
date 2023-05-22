@@ -82,6 +82,7 @@ public class Petle {
         Fizz
         4
         Buzz
+        Fizz
         ...
         14
         FizzBuzz
