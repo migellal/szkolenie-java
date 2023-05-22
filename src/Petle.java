@@ -94,6 +94,7 @@ public class Petle {
             System.out.println("i: " + i + " -> " + ch++);
         }
         // w ten sposób da analizować zmienną char
+        // tutaj jest bardzo ważny komentarz!
         // ten komentarz spowoduje konflikt!
 
     }
